@@ -65,14 +65,11 @@ College-Recommendation-System/
 ---
 
 ## ▶️ How to Run the Project
-1. Clone the repository
-  git clone https://github.com/MsKrishna-Dev/College-Recommendation-System.git
+1. Clone the repository : git clone https://github.com/MsKrishna-Dev/College-Recommendation-System.git
 
-2. Install dependencies
-  pip install -r requirements.txt
+2. Install dependencies : pip install -r requirements.txt
 
 3. Open Jupyter Notebook
-   jupyter notebook
 
 4. Run college_recommendation.ipynb
 
